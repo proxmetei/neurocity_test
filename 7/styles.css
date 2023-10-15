@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.container__elem{
+  width: 30px;
+  height: 30px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}

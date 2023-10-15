@@ -1,0 +1,18 @@
+.page{
+  display: flex;
+  width: 80%;
+  flex-wrap: wrap;
+}
+.page__container {
+  margin-right: 5%;
+  margin-bottom: 3%;
+  display: flex;
+  flex-direction: column;
+  padding: 3%;
+  -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2); 
+  -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2); 
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+.page__container span{
+  margin-bottom: 1%;
+}
